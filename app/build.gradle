@@ -10,3 +10,8 @@ android {
         versionName "1.0"
     }
 }
+android {
+    namespace 'com.waddah.smsapp' // أضف هذا السطر هنا
+    compileSdkVersion 33
+    // بقية الكود كما هو...
+}
